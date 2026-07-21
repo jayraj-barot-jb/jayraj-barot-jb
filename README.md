@@ -4,6 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Open+to+full-time+developer+roles" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Python+%26+Django;Shipping+responsive+UIs+with+React+%26+JavaScript;Exploring+AI%2FML+%E2%80%94+from+internship+to+projects;Always+learning+%E2%80%94+always+shipping" alt="Typing SVG" />
   </a>
 </p>
