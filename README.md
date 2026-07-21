@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+Python+%26+Django;Shipping+responsive+UIs+with+React+%26+JS;Integrating+RESTful+APIs+%26+payment+gateways;Always+learning+%E2%80%94+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Python+%26+Django;Shipping+responsive+UIs+with+React+%26+JavaScript;Exploring+AI%2FML+%E2%80%94+from+internship+to+projects;Always+learning+%E2%80%94+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,36 +24,38 @@
 
 ```ts
 const jayraj = {
-  title: "Full Stack Web Developer (Fresher) | Python AI/ML Developer | Software Engineer",
+  title: "Full Stack Web Developer (Fresher) | Python AI/ML Developer",
+  education: "MCA @ Sankalchand Patel College of Engineering (CGPA: 8.12)",
+  experience: [
+    "Python AI/ML Intern @ Tech Innovation IT Solutions (6 months)",
+    "Front-End Developer Trainee @ Oneway Akshar Technology LLP (6 months)",
+  ],
   stack: {
-    languages: ["Python", "Java", "JavaScript", "PHP", "C++", "C#"],
-    web: ["HTML5", "CSS3", "React.js", "Node.js", "Express.js", "MERN Stack"],
-    frameworks: ["Django", "Bootstrap 5", ".NET", "REST APIs"],
+    languages: ["Python", "Java", "JavaScript", "PHP"],
+    web: ["HTML5", "CSS3", "React.js", "Node.js", "Express.js"],
+    frameworks: ["Django", "Bootstrap 5", "REST APIs"],
     databases: ["MySQL", "MongoDB", "SQLite"],
     tools: ["Git", "GitHub", "VS Code", "Postman", "Razorpay API"],
   },
-  launchedProjects: [
-    "R.K Jewellery Shop Management System — full-stack e-commerce & inventory platform",
-    "College Management System — automated college administration platform",
-  ],
+  featuredProject: "R.K Jewellery Shop Management System — full-stack e-commerce & inventory platform",
   certifications: [
     "CS50x — Harvard University / edX",
     "AICTE ATAL Academy — Emerging Cyber Security Techniques",
+    "Data Analytics Job Simulation — Tata / Forage (GenAI)",
+    "Introduction to Artificial Intelligence",
+    "Content Marketing — Adobe / Nasscom",
     "MERN Stack Development Workshop — Sankalchand Patel University",
   ],
-  status: "Pursuing MCA (CGPA 8.12, First Class with Distinction)",
+  status: "Pursuing MCA — First Class with Distinction",
   openTo: ["Full Stack Developer", "Junior Software Developer", "Web Developer (Fresher)"],
 };
 ```
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Project
 
 #### R.K Jewellery Shop Management System
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayraj-barot-jb&repo=rk-jewellery-shop-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
-</p>
 
 | Layer | Technology |
 |---|---|
@@ -62,35 +64,22 @@ const jayraj = {
 | Frontend | Bootstrap 5, HTML5, CSS3, JavaScript |
 | Payments | Razorpay API |
 
-🔗 Live: _add your deployment link here_ · 💻 [Code](https://github.com/jayraj-barot-jb/rk-jewellery-shop-management-system)
+💻 Code: _add your repo link here_ &nbsp;·&nbsp; 🔗 Live: _add your deployment link here_
 
-#### College Management System
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayraj-barot-jb&repo=college-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc"/>
-</p>
-
-| Layer | Technology |
-|---|---|
-| Backend | PHP |
-| Database | MySQL |
-| Frontend | HTML5, CSS3, JavaScript |
-
-🔗 Live: _add your deployment link here_ · 💻 [Code](https://github.com/jayraj-barot-jb/college-management-system)
-
-> ⚠️ Repo names above are guesses (`rk-jewellery-shop-management-system`, `college-management-system`) — swap in your exact repo names and live links once you have them, or send them to me and I'll regenerate this file.
+> Built during my Python AI/ML internship — a full-stack shop management system with inventory tracking and integrated payments.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,cs"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,php"/>
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
 
 **Backend / Frameworks**
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
 
 **Databases**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
@@ -125,7 +114,8 @@ const jayraj = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barot-jayraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:barotjayraj60@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220"/></a>
+  <a href="https://jayraj-barot-jb.github.io"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0b1220"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220"/></a>
 </p>
 
 <p align="center">
