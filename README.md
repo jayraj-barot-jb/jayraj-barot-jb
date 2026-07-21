@@ -64,7 +64,7 @@ const jayraj = {
 | Frontend | Bootstrap 5, HTML5, CSS3, JavaScript |
 | Payments | Razorpay API |
 
-💻 Code: _add your repo link here_ &nbsp;·&nbsp; 🔗 Live: _add your deployment link here_
+🌐 Live → _add your deployment link here_ &nbsp;|&nbsp; 📁 Code → [github.com/jayraj-barot-jb/rk-jewellery-shop-management-system](https://github.com/jayraj-barot-jb/rk-jewellery-shop-management-system)
 
 > Built during my Python AI/ML internship — a full-stack shop management system with inventory tracking and integrated payments.
 
@@ -110,12 +110,28 @@ const jayraj = {
 
 ---
 
+### 🐍 Contributions Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayraj-barot-jb/jayraj-barot-jb/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> _Note: the snake graphic needs a one-time GitHub Action set up in your profile repo — I can walk you through that if you want it live._
+
+---
+
 ### 📫 Connect
 
 <p align="center">
+  <a href="https://github.com/jayraj-barot-jb"><img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=7dd3fc"/></a>
   <a href="https://www.linkedin.com/in/barot-jayraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jayraj-barot-jb.github.io"><img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=0b1220"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220"/></a>
+</p>
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
+  <sub>— Cory House</sub>
 </p>
 
 <p align="center">
