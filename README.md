@@ -14,7 +14,7 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://jayraj-barot-jb.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -35,7 +35,7 @@ I'm a motivated and detail-oriented Full Stack Web Developer (Fresher) with hand
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Django, React, Node.js, MERN Stack**
 - 📫 How to reach me: **barotjayraj60@gmail.com**
-- 📄 Know about my experiences: [My Portfolio](YOUR_PORTFOLIO_URL)
+- 📄 Know about my experiences: [My Portfolio](https://jayraj-barot-jb.github.io/)
 - ⚡ Fun fact: I love Photography, Music, and Gaming!
 
 <hr />
@@ -191,7 +191,7 @@ I'm a motivated and detail-oriented Full Stack Web Developer (Fresher) with hand
   <a href="mailto:barotjayraj60@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://jayraj-barot-jb.github.io/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" />
   </a>
   <a href="https://github.com/jayraj-barot-jb" target="_blank">
