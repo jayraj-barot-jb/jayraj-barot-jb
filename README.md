@@ -92,19 +92,19 @@
   <tr>
     <td align="center" width="100">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); transform: perspective(1000px) rotateX(0deg) rotateY(10deg); transition: transform 0.3s ease;">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
         <br /><strong>Node.js</strong>
       </div>
     </td>
     <td align="center" width="100">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); transform: perspective(1000px) rotateX(0deg) rotateY(-10deg); transition: transform 0.3s ease;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
         <br /><strong>MySQL</strong>
       </div>
     </td>
     <td align="center" width="100">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); transform: perspective(1000px) rotateX(5deg) rotateY(10deg); transition: transform 0.3s ease;">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
         <br /><strong>MongoDB</strong>
       </div>
     </td>
