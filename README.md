@@ -1,3 +1,4 @@
+<!-- File: README.md -->
 <h1 align="center">Hi 👋, I'm Jayraj Barot</h1>
 <h3 align="center">A Passionate Full Stack Web Developer & AI/ML Enthusiast from India</h3>
 
@@ -11,7 +12,7 @@
   <a href="mailto:barotjayraj60@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://jayraj-barot-jb.github.io/">
@@ -19,10 +20,11 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5f616f5f642f733f773d3632666c3d6175746f26666f726d61743d676966" />
+<!-- Replaced the broken GIF with a more reliable and modern coding animation -->
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VuaW5zdHJ1Y3Rpb25hbC1jb2Rlci1naWZzLWIyY2M2YjJjLWIzYzMtNGJjZi1hNGE4LWI5YzM5YzA5ZjQ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/india.png" alt="India" /> <b>Hatharva, Vadali, Sabarkantha, Gujarat – 383235</b>
+  <i class="fi fi-in"></i> <b>Hatharva, Vadali, Sabarkantha, Gujarat – 383235</b>
 </p>
 
 ### 🧑‍💻 About Me
@@ -30,7 +32,7 @@
 I'm a motivated and detail-oriented Full Stack Web Developer (Fresher) with hands-on project, training, and internship experience building responsive, scalable web applications. I am currently pursuing my Master of Computer Applications (MCA) and have a strong foundation in Python, Java, JavaScript, and various modern frameworks.
 
 - 🎓 **MCA Student** at Sankalchand Patel College of Engineering (CGPA: 8.12)
-- 💼 **Python AI/ML Developer Intern** at Tech Innovation IT Solutions
+- 💼 **Python AI/ML Developer Intern** at Tech Innovation IT Solutions (Nov 2025 – Mar 2026)
 - 🌱 Currently learning and exploring **Advanced AI/ML** and **Cloud Deployment**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Django, React, Node.js, MERN Stack**
@@ -150,11 +152,19 @@ I'm a motivated and detail-oriented Full Stack Web Developer (Fresher) with hand
     <td valign="top">
       <h3>🏅 Certifications</h3>
       <ul>
-        <li>Python AI/ML Internship Certificate — Tech Innovation IT Solutions</li>
-        <li>Front-End Developer Training — Oneway Akshar Technology LLP</li>
-        <li>MERN Stack Development Workshop — Sankalchand Patel University</li>
-        <li>Introduction to Computer Science I (CS50x) — Harvard University / edX</li>
-        <li>GenAI Powered Data Analytics — Tata / Forage</li>
+        <li>Python AI/ML Internship Certificate — Tech Innovation IT Solutions (Mar 2026)</li>
+        <li>Front-End Developer Training — Oneway Akshar Technology LLP (May 2024)</li>
+        <li>MERN Stack Development Workshop — Sankalchand Patel University (Sep 2025)</li>
+        <li>Introduction to Computer Science I (CS50x) — Harvard University / edX (May 2025)</li>
+        <li>GenAI Powered Data Analytics — Tata / Forage (Jun 2026)</li>
+        <li>AICTE ATAL Academy — Emerging Cyber Security Techniques (Dec 2025)</li>
+        <li>Introduction to Artificial Intelligence (Jun 2026)</li>
+        <li>Fundamentals of Multichannel Content Marketing — Adobe / Nasscom (Jun 2026)</li>
+        <li>Time Series Analysis — L&T EduTech / Sankalchand Patel University</li>
+        <li>Course on Computer Concepts (CCC) — Sankalp Foundation</li>
+        <li>Seminar on Cyber Security and Its Awareness — Asian BCA College</li>
+        <li>Mastering the Basics: An Introduction to Python — Asian BCA College</li>
+        <li>Asian Tech Utsav — 2023 — Asian Education Campus</li>
       </ul>
     </td>
   </tr>
