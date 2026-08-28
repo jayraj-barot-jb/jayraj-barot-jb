@@ -220,12 +220,12 @@
     <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); transform: perspective(1000px) rotateY(5deg); transition: transform 0.5s ease;">
         <h3 style="color: #c6a16e;">🧵 Mens Tailor - Premium Custom Tailoring</h3>
-        <img src="https://img.icons8.com/fluency/64/000000/tailor.png" alt="Project Icon" />
-        <br /><br />
+        <div style="font-size: 80px; line-height: 1; margin: 10px 0;">🧵</div>
+        <br />
         <a href="https://mens-tailor.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-c6a16e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
-        <a href="YOUR_PROJECT_LINK_3">
+        <a href="https://github.com/jayraj-barot-jb/Mens-Tailor-.git">
           <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
         <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap 5, JavaScript, GSAP</p>
@@ -239,8 +239,8 @@
     <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); transform: perspective(1000px) rotateY(-5deg); transition: transform 0.5s ease;">
         <h3 style="color: #ffd54f;">📱 Your Next Project</h3>
-        <img src="https://img.icons8.com/fluency/64/000000/idea.png" alt="Coming Soon" />
-        <br /><br />
+        <div style="font-size: 80px; line-height: 1; margin: 10px 0;">🚀</div>
+        <br />
         <p><em>🚧 Coming Soon...</em></p>
         <p><strong>Tech Stack:</strong> TBD</p>
         <ul align="left">
