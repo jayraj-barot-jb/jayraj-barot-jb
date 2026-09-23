@@ -14,7 +14,7 @@
   <a href="mailto:barotjayraj60@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/barot-jayraj-51838227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/barot-jayraj-51838227a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://jayraj-barot-jb.github.io/">
@@ -22,13 +22,13 @@
   </a>
 </p>
 
-<!-- ============ ABOUT ME — 3D BOOTSTRAP MODAL CARD ============ -->
+<!-- ============ ABOUT ME ============ -->
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1200px) rotateX(2deg) rotateY(2deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1200px) rotateX(2deg) rotateY(2deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #4fc3f7, #0288d1); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 18px;">👋 Hello, I'm Jayraj Barot</h3>
         </div>
@@ -64,40 +64,38 @@
   </tr>
 </table>
 
-<!-- Animated Marquee -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=60&duration=3000&lines=💻+Full+Stack+Developer;🐍+Python+AI/ML+Enthusiast;☕+Java+Developer;⚛️+React+Developer;🚀+MERN+Stack+Developer" />
 </div>
 
 <hr />
 
-<!-- ============ TECH STACK — 3D BOOTSTRAP CARDS ============ -->
+<!-- ============ TECH STACK ============ -->
 <h2 align="center">🔭 My Tech Stack</h2>
 
-<!-- Languages Row -->
 <h3 align="center" style="color: #4fc3f7;">💻 Languages</h3>
 <table align="center" cellspacing="12">
   <tr>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(5deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(5deg);">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Python</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg);">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Java</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(5deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(5deg);">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">JavaScript</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(-5deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(-5deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">PHP</strong>
       </div>
@@ -105,36 +103,35 @@
   </tr>
 </table>
 
-<!-- Frontend Row -->
 <h3 align="center" style="color: #ffd54f;">🎨 Frontend</h3>
 <table align="center" cellspacing="12">
   <tr>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(97,218,251,0.3); transform: perspective(1000px) rotateX(3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(97,218,251,0.3); transform: perspective(1000px) rotateX(3deg);">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">React</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(227,79,38,0.3); transform: perspective(1000px) rotateX(3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(227,79,38,0.3); transform: perspective(1000px) rotateX(3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">HTML5</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(38,77,228,0.3); transform: perspective(1000px) rotateX(3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(38,77,228,0.3); transform: perspective(1000px) rotateX(3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">CSS3</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(121,82,179,0.3); transform: perspective(1000px) rotateX(3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(121,82,179,0.3); transform: perspective(1000px) rotateX(3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Bootstrap</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(56,178,172,0.3); transform: perspective(1000px) rotateX(3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(56,178,172,0.3); transform: perspective(1000px) rotateX(3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Tailwind</strong>
       </div>
@@ -142,30 +139,29 @@
   </tr>
 </table>
 
-<!-- Backend Row -->
 <h3 align="center" style="color: #88ce02;">⚙️ Backend</h3>
 <table align="center" cellspacing="12">
   <tr>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(9,46,32,0.5); transform: perspective(1000px) rotateX(-3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(9,46,32,0.5); transform: perspective(1000px) rotateX(-3deg);">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Django</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(104,160,99,0.3); transform: perspective(1000px) rotateX(-3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(104,160,99,0.3); transform: perspective(1000px) rotateX(-3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Node.js</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(-3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(-3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">Express</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(81,43,212,0.3); transform: perspective(1000px) rotateX(-3deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(81,43,212,0.3); transform: perspective(1000px) rotateX(-3deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">.NET</strong>
       </div>
@@ -173,36 +169,35 @@
   </tr>
 </table>
 
-<!-- Database & Tools Row -->
 <h3 align="center" style="color: #ff6b6b;">🗄️ Database & Tools</h3>
 <table align="center" cellspacing="12">
   <tr>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,117,143,0.3); transform: perspective(1000px) rotateX(4deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,117,143,0.3); transform: perspective(1000px) rotateX(4deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">MySQL</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(71,162,72,0.3); transform: perspective(1000px) rotateX(4deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(71,162,72,0.3); transform: perspective(1000px) rotateX(4deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">MongoDB</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,59,87,0.4); transform: perspective(1000px) rotateX(4deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,59,87,0.4); transform: perspective(1000px) rotateX(4deg);">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">SQLite</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(4deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(4deg);">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">GitHub</strong>
       </div>
     </td>
     <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,153,0,0.3); transform: perspective(1000px) rotateX(4deg); transition: all 0.3s ease;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,153,0,0.3); transform: perspective(1000px) rotateX(4deg);">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" />
         <br /><strong style="color: #fff;">AWS</strong>
       </div>
@@ -226,14 +221,13 @@
 
 <hr />
 
-<!-- ============ EXPERIENCE — 3D BOOTSTRAP CARDS ============ -->
+<!-- ============ EXPERIENCE ============ -->
 <h2 align="center">💼 Professional Experience</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
   <tr>
-    <!-- Internship Card -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg) rotateY(3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg) rotateY(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #4fc3f7, #0288d1); padding: 18px;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">💻 Python AI/ML Developer Intern</h3>
           <p style="color: #e1f5fe; margin: 5px 0 0 0; font-size: 13px;">Tech Innovation IT Solutions</p>
@@ -252,10 +246,8 @@
         </div>
       </div>
     </td>
-
-    <!-- Trainee Card -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,183,77,0.3); transform: perspective(1200px) rotateX(2deg) rotateY(-3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,183,77,0.3); transform: perspective(1200px) rotateX(2deg) rotateY(-3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffb74d, #f57c00); padding: 18px;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🎨 Front-End Developer Trainee</h3>
           <p style="color: #fff3e0; margin: 5px 0 0 0; font-size: 13px;">Oneway Akshar Technology LLP, Himmatnagar</p>
@@ -279,15 +271,13 @@
 
 <hr />
 
-<!-- ============ PROJECTS — 3D BOOTSTRAP MODAL CARDS ============ -->
+<!-- ============ PROJECTS ============ -->
 <h2 align="center">🚀 My Projects</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
-  <!-- ==================== ROW 1 ==================== -->
   <tr>
-    <!-- PROJECT 1: R.K JEWELLERY -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffd54f, #ffb300); padding: 18px; text-align: center;">
           <h3 style="color: #1a1a2e; margin: 0; font-size: 17px;">💎 R.K Jewellery Shop Management</h3>
         </div>
@@ -318,10 +308,8 @@
         </div>
       </div>
     </td>
-
-    <!-- PROJECT 2: COLLEGE MANAGEMENT SYSTEM -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #4fc3f7, #0288d1); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🎓 College Management System</h3>
         </div>
@@ -353,12 +341,9 @@
       </div>
     </td>
   </tr>
-
-  <!-- ==================== ROW 2 ==================== -->
   <tr>
-    <!-- PROJECT 3: MENS TAILOR -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(198,161,110,0.3); transform: perspective(1200px) rotateX(-3deg) rotateY(3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(198,161,110,0.3); transform: perspective(1200px) rotateX(-3deg) rotateY(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #c6a16e, #8d6e3a); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🧵 Mens Tailor - Premium Custom Tailoring</h3>
         </div>
@@ -387,10 +372,8 @@
         </div>
       </div>
     </td>
-
-    <!-- PROJECT 4: NEXT PROJECT -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1200px) rotateX(-3deg) rotateY(-3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1200px) rotateX(-3deg) rotateY(-3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffd54f, #ff8f00); padding: 18px; text-align: center;">
           <h3 style="color: #1a1a2e; margin: 0; font-size: 17px;">📱 Your Next Project</h3>
         </div>
@@ -428,14 +411,13 @@
 
 <hr />
 
-<!-- ============ EDUCATION & CERTIFICATIONS — 3D CARDS ============ -->
+<!-- ============ EDUCATION & CERTIFICATIONS ============ -->
 <h2 align="center">🎓 Education & Certifications</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
   <tr>
-    <!-- Education Card -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #4fc3f7, #0288d1); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🎓 Education</h3>
         </div>
@@ -460,10 +442,8 @@
         </div>
       </div>
     </td>
-
-    <!-- Certifications Card -->
     <td width="50%" valign="top">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg); transition: all 0.4s ease; overflow: hidden;">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffd54f, #ffb300); padding: 18px; text-align: center;">
           <h3 style="color: #1a1a2e; margin: 0; font-size: 17px;">🏅 Certifications</h3>
         </div>
@@ -486,34 +466,60 @@
 
 <hr />
 
-<!-- ============ GITHUB STATS — 3D CARDS ============ -->
+<!-- ============ GITHUB STATS — FIXED ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<table width="100%" cellspacing="15" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); padding: 20px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jayraj-barot-jb&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+    <td width="50%" valign="middle" align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); padding: 15px; overflow: hidden;">
+        <img src="https://github-readme-stats.vercel.app/api?username=jayraj-barot-jb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
       </div>
     </td>
-    <td width="50%" valign="top" align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); padding: 20px; overflow: hidden;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayraj-barot-jb&theme=radical&hide_border=true" width="100%" />
+    <td width="50%" valign="middle" align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); padding: 15px; overflow: hidden;">
+        <img src="https://streak-stats.demolab.com/?user=jayraj-barot-jb&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
 </table>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<br />
+
+<table width="100%" cellspacing="15" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 20px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj-barot-jb&layout=compact&theme=radical&hide_border=true" width="100%" />
+    <td width="40%" valign="middle" align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 15px; overflow: hidden;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj-barot-jb&layout=compact&theme=radical&hide_border=true&langs_count=8" height="200" alt="Top Languages" />
       </div>
     </td>
-    <td width="50%" valign="top" align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,107,107,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 20px; overflow: hidden;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayraj-barot-jb&bg_color=1a1a2e&color=4fc3f7&line=ff6b6b&point=ffffff&area=true&hide_border=true" width="100%" />
+    <td width="60%" valign="middle" align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,107,107,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 15px; overflow: hidden;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayraj-barot-jb&bg_color=1a1a2e&color=4fc3f7&line=ff6b6b&point=ffffff&area=true&hide_border=true" height="200" alt="Contribution Graph" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="15" cellpadding="0">
+  <tr>
+    <td align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.4); transform: perspective(1200px) rotateX(2deg); padding: 20px; overflow: hidden;">
+        <img src="https://github-profile-trophy.vercel.app/?username=jayraj-barot-jb&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="15" cellpadding="0">
+  <tr>
+    <td align="center">
+      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg); padding: 20px; overflow: hidden;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayraj-barot-jb&theme=radical" width="100%" alt="Profile Summary" />
       </div>
     </td>
   </tr>
@@ -521,7 +527,7 @@
 
 <hr />
 
-<!-- ============ RANDOM DEV QUOTE — 3D CARD ============ -->
+<!-- ============ RANDOM DEV QUOTE ============ -->
 <h2 align="center">✍️ Random Dev Quote</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
@@ -534,7 +540,6 @@
   </tr>
 </table>
 
-<!-- Snake Animation — 3D Card -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
@@ -549,7 +554,7 @@
 
 <hr />
 
-<!-- ============ CONNECT WITH ME — 3D CARD ============ -->
+<!-- ============ CONNECT WITH ME ============ -->
 <h2 align="center">📫 Connect with Me</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
@@ -560,7 +565,7 @@
           <h3 style="color: #fff; margin: 0; font-size: 16px;">🌐 Let's Connect & Collaborate!</h3>
         </div>
         <p align="center" style="margin: 15px 0;">
-          <a href="https://www.linkedin.com/in/barot-jayraj-51838227a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+          <a href="https://www.linkedin.com/in/barot-jayraj-51838227a" target="_blank">
             <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
           </a>
           <a href="mailto:barotjayraj60@gmail.com" target="_blank">
@@ -572,7 +577,7 @@
           <a href="https://github.com/jayraj-barot-jb" target="_blank">
             <img src="https://img.icons8.com/fluency/48/000000/github.png" />
           </a>
-          <a href="https://www.instagram.com/jayraj__singh_rao?igsh=MTU1NTVqY2l3NTVpaA==" target="_blank">
+          <a href="https://www.instagram.com/jayraj__singh_rao" target="_blank">
             <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
           </a>
           <a href="https://www.facebook.com/share/1PUJz2woP3/" target="_blank">
@@ -601,7 +606,7 @@
   </tr>
 </table>
 
-<!-- ============ SUPPORT SECTION — 3D CARD ============ -->
+<!-- ============ SUPPORT ============ -->
 <h2 align="center">☕ Support My Work</h2>
 
 <table width="100%" cellspacing="20" cellpadding="0">
@@ -624,7 +629,6 @@
   </tr>
 </table>
 
-<!-- ============ FOOTER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
