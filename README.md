@@ -22,10 +22,11 @@
   </a>
 </p>
 
-<!-- ============ ABOUT ME ============ -->
+---
+
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<table align="center" width="100%" cellspacing="20" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1200px) rotateX(2deg) rotateY(2deg); overflow: hidden;">
@@ -64,148 +65,161 @@
   </tr>
 </table>
 
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=60&duration=3000&lines=💻+Full+Stack+Developer;🐍+Python+AI/ML+Enthusiast;☕+Java+Developer;⚛️+React+Developer;🚀+MERN+Stack+Developer" />
 </div>
 
-<hr />
+---
 
-<!-- ============ TECH STACK ============ -->
 <h2 align="center">🔭 My Tech Stack</h2>
 
 <h3 align="center" style="color: #4fc3f7;">💻 Languages</h3>
-<table align="center" cellspacing="12">
+
+<div align="center">
+<table align="center" cellspacing="12" cellpadding="8">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(5deg);">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Python</strong>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Python</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg);">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Java</strong>
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Java</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(5deg);">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">JavaScript</strong>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">JavaScript</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.2); transform: perspective(1000px) rotateX(-5deg) rotateY(-5deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">PHP</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">PHP</strong>
       </div>
     </td>
   </tr>
 </table>
+</div>
 
 <h3 align="center" style="color: #ffd54f;">🎨 Frontend</h3>
-<table align="center" cellspacing="12">
+
+<div align="center">
+<table align="center" cellspacing="12" cellpadding="8">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(97,218,251,0.3); transform: perspective(1000px) rotateX(3deg);">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">React</strong>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">React</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(227,79,38,0.3); transform: perspective(1000px) rotateX(3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">HTML5</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">HTML5</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(38,77,228,0.3); transform: perspective(1000px) rotateX(3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">CSS3</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">CSS3</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(121,82,179,0.3); transform: perspective(1000px) rotateX(3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Bootstrap</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Bootstrap</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(56,178,172,0.3); transform: perspective(1000px) rotateX(3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Tailwind</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Tailwind</strong>
       </div>
     </td>
   </tr>
 </table>
+</div>
 
 <h3 align="center" style="color: #88ce02;">⚙️ Backend</h3>
-<table align="center" cellspacing="12">
+
+<div align="center">
+<table align="center" cellspacing="12" cellpadding="8">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(9,46,32,0.5); transform: perspective(1000px) rotateX(-3deg);">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Django</strong>
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Django</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(104,160,99,0.3); transform: perspective(1000px) rotateX(-3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Node.js</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Node.js</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(-3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">Express</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">Express</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(81,43,212,0.3); transform: perspective(1000px) rotateX(-3deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">.NET</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">.NET</strong>
       </div>
     </td>
   </tr>
 </table>
+</div>
 
 <h3 align="center" style="color: #ff6b6b;">🗄️ Database & Tools</h3>
-<table align="center" cellspacing="12">
+
+<div align="center">
+<table align="center" cellspacing="12" cellpadding="8">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,117,143,0.3); transform: perspective(1000px) rotateX(4deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">MySQL</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">MySQL</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(71,162,72,0.3); transform: perspective(1000px) rotateX(4deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">MongoDB</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">MongoDB</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(0,59,87,0.4); transform: perspective(1000px) rotateX(4deg);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">SQLite</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">SQLite</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.2); transform: perspective(1000px) rotateX(4deg);">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">GitHub</strong>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">GitHub</strong>
       </div>
     </td>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 15px 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,153,0,0.3); transform: perspective(1000px) rotateX(4deg);">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" />
-        <br /><strong style="color: #fff;">AWS</strong>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" /><br />
+        <strong style="color: #fff;">AWS</strong>
       </div>
     </td>
   </tr>
 </table>
+</div>
 
-<details>
+<details align="center">
 <summary><b>📊 Tech Stack Details</b></summary>
 <br>
 
@@ -219,12 +233,11 @@
 
 </details>
 
-<hr />
+---
 
-<!-- ============ EXPERIENCE ============ -->
 <h2 align="center">💼 Professional Experience</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<table align="center" width="100%" cellspacing="20" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg) rotateY(3deg); overflow: hidden;">
@@ -269,20 +282,19 @@
   </tr>
 </table>
 
-<hr />
+---
 
-<!-- ============ PROJECTS ============ -->
 <h2 align="center">🚀 My Projects</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<table align="center" width="100%" cellspacing="20" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffd54f, #ffb300); padding: 18px; text-align: center;">
           <h3 style="color: #1a1a2e; margin: 0; font-size: 17px;">💎 R.K Jewellery Shop Management</h3>
         </div>
         <div style="padding: 22px;">
-          <div style="text-align: center; margin-bottom: 15px;">
+          <div align="center" style="margin-bottom: 15px;">
             <img src="https://img.icons8.com/fluency/96/000000/shop.png" style="width: 70px;" />
           </div>
           <p align="center" style="margin: 12px 0;">
@@ -291,7 +303,7 @@
             <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
             <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
           </p>
-          <ul style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
+          <ul align="left" style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
             <li>✅ Comprehensive e-commerce & inventory</li>
             <li>✅ Secure Razorpay payment gateway</li>
             <li>✅ Fully responsive mobile-friendly UI</li>
@@ -308,13 +320,13 @@
         </div>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #4fc3f7, #0288d1); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🎓 College Management System</h3>
         </div>
         <div style="padding: 22px;">
-          <div style="text-align: center; margin-bottom: 15px;">
+          <div align="center" style="margin-bottom: 15px;">
             <img src="https://img.icons8.com/color/96/000000/classroom.png" style="width: 70px;" />
           </div>
           <p align="center" style="margin: 12px 0;">
@@ -323,7 +335,7 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           </p>
-          <ul style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
+          <ul align="left" style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
             <li>✅ Web-based college administration</li>
             <li>✅ Reduced workload by 60%</li>
             <li>✅ Student registration & RBAC</li>
@@ -342,20 +354,20 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(198,161,110,0.3); transform: perspective(1200px) rotateX(-3deg) rotateY(3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #c6a16e, #8d6e3a); padding: 18px; text-align: center;">
           <h3 style="color: #fff; margin: 0; font-size: 17px;">🧵 Mens Tailor - Premium Custom Tailoring</h3>
         </div>
         <div style="padding: 22px;">
-          <div style="text-align: center; margin-bottom: 15px; font-size: 60px; line-height: 1;">🧵</div>
+          <div align="center" style="margin-bottom: 15px; font-size: 60px; line-height: 1;">🧵</div>
           <p align="center" style="margin: 12px 0;">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
             <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
             <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
           </p>
-          <ul style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
+          <ul align="left" style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
             <li>✅ Luxury bespoke tailoring platform</li>
             <li>✅ GSAP ScrollTrigger animations</li>
             <li>✅ Interactive modals & gallery</li>
@@ -372,17 +384,17 @@
         </div>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.2); transform: perspective(1200px) rotateX(-3deg) rotateY(-3deg); overflow: hidden;">
         <div style="background: linear-gradient(135deg, #ffd54f, #ff8f00); padding: 18px; text-align: center;">
           <h3 style="color: #1a1a2e; margin: 0; font-size: 17px;">📱 Your Next Project</h3>
         </div>
         <div style="padding: 22px;">
-          <div style="text-align: center; margin-bottom: 15px; font-size: 60px; line-height: 1;">🚀</div>
+          <div align="center" style="margin-bottom: 15px; font-size: 60px; line-height: 1;">🚀</div>
           <p align="center" style="margin: 12px 0;">
             <img src="https://img.shields.io/badge/Coming_Soon-9e9e9e?style=flat-square" />
           </p>
-          <ul style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
+          <ul align="left" style="color: #cfd8dc; font-size: 13px; line-height: 1.7; padding-left: 20px; margin: 12px 0;">
             <li>🔜 Exciting new project in development</li>
             <li>🔜 Stay tuned for updates!</li>
             <li>🔜 More details coming soon</li>
@@ -409,12 +421,11 @@
   <img src="https://img.shields.io/badge/Open_Source-Yes-88CE02?style=for-the-badge" />
 </p>
 
-<hr />
+---
 
-<!-- ============ EDUCATION & CERTIFICATIONS ============ -->
 <h2 align="center">🎓 Education & Certifications</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<table align="center" width="100%" cellspacing="20" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg); overflow: hidden;">
@@ -464,46 +475,46 @@
   </tr>
 </table>
 
-<hr />
+---
 
-<!-- ============ GITHUB STATS — FIXED ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table width="100%" cellspacing="15" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="15" cellpadding="0">
   <tr>
-    <td width="50%" valign="middle" align="center">
+    <td align="center" valign="middle">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(3deg); padding: 15px; overflow: hidden;">
         <img src="https://github-readme-stats.vercel.app/api?username=jayraj-barot-jb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
       </div>
     </td>
-    <td width="50%" valign="middle" align="center">
+    <td align="center" valign="middle">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(3deg) rotateY(-3deg); padding: 15px; overflow: hidden;">
         <img src="https://streak-stats.demolab.com/?user=jayraj-barot-jb&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
 </table>
+</div>
 
-<br />
-
-<table width="100%" cellspacing="15" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="15" cellpadding="0">
   <tr>
-    <td width="40%" valign="middle" align="center">
+    <td align="center" valign="middle">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 15px; overflow: hidden;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayraj-barot-jb&layout=compact&theme=radical&hide_border=true&langs_count=8" height="200" alt="Top Languages" />
       </div>
     </td>
-    <td width="60%" valign="middle" align="center">
+    <td align="center" valign="middle">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,107,107,0.3); transform: perspective(1200px) rotateX(-3deg); padding: 15px; overflow: hidden;">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayraj-barot-jb&bg_color=1a1a2e&color=4fc3f7&line=ff6b6b&point=ffffff&area=true&hide_border=true" height="200" alt="Contribution Graph" />
       </div>
     </td>
   </tr>
 </table>
+</div>
 
-<br />
-
-<table width="100%" cellspacing="15" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="15" cellpadding="0">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.4); transform: perspective(1200px) rotateX(2deg); padding: 20px; overflow: hidden;">
@@ -512,10 +523,10 @@
     </td>
   </tr>
 </table>
+</div>
 
-<br />
-
-<table width="100%" cellspacing="15" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="15" cellpadding="0">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg); padding: 20px; overflow: hidden;">
@@ -524,40 +535,28 @@
     </td>
   </tr>
 </table>
+</div>
 
-<hr />
+---
 
-<!-- ============ RANDOM DEV QUOTE ============ -->
 <h2 align="center">✍️ Random Dev Quote</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
-  <tr>
-    <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg); padding: 25px; overflow: hidden;">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
-  <tr>
-    <td align="center">
-      <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(136,206,2,0.3); transform: perspective(1200px) rotateX(-2deg); padding: 20px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<hr />
+---
 
-<!-- ============ CONNECT WITH ME ============ -->
 <h2 align="center">📫 Connect with Me</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="20" cellpadding="0">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(79,195,247,0.3); transform: perspective(1200px) rotateX(2deg); padding: 30px; overflow: hidden;">
@@ -605,11 +604,12 @@
     </td>
   </tr>
 </table>
+</div>
 
-<!-- ============ SUPPORT ============ -->
 <h2 align="center">☕ Support My Work</h2>
 
-<table width="100%" cellspacing="20" cellpadding="0">
+<div align="center">
+<table align="center" cellspacing="20" cellpadding="0">
   <tr>
     <td align="center">
       <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,213,79,0.3); transform: perspective(1200px) rotateX(2deg); padding: 30px; overflow: hidden;">
@@ -628,6 +628,9 @@
     </td>
   </tr>
 </table>
+</div>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
